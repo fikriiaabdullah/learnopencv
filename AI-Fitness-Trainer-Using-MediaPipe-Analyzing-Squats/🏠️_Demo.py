@@ -1,7 +1,7 @@
 import streamlit as st
 import os
 
-st.title('AI Fitness Trainer: Squats Analysis')
+st.title('PostureSense by RAGABISA')
 
 # --- BAGIAN PERBAIKAN (DevOps Best Practice) ---
 
